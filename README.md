@@ -1,2 +1,2 @@
-# upload-cloudinary-greenshot
-Node.js package to upload images to cloudinary from Screenshot
+# Upload images from Screenshot to Cloudinary
+Node.js package to upload images to cloudinary from Screenshot using external command tool.
